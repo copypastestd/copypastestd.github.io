@@ -1,32 +1,20 @@
-Freelancer Jekyll theme
-=========================
+[![Build Status](https://travis-ci.org/ShikherVerma/Shikherverma.github.io.svg?branch=master)](https://travis-ci.org/ShikherVerma/Shikherverma.github.io)
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+## CleanBlogEnhanced jekyll template
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+Jekyll blog based on [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/). Served at shikherverma.com
 
----
-```
+## Usage
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+Fork the repo
+Rename to `username.github.io`
+Modify the _config file
+Replace all the posts and images with your data
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## Bugs and Issues
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+Have a bug or an issue with this template? [Open a new issue](https://github.com/ShikherVerma/shikherverma.github.io/issues) here on GitHub
+
+## Copyright and License
+
+Copyright ShikherVerma. All rights reserved for the files under _posts and _images, the rest of the code is released under the [MIT](https://github.com/ShikherVerma/shikherverma.github.io/blob/gh-pages/LICENSE) license.
