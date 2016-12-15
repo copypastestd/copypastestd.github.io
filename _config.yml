@@ -1,16 +1,16 @@
 # Site settings
-title: My Territory
-blog_title: My Territory
+title: CopyPasteStd
+blog_title: CODE / DIY
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
-copyright_name: ShikherVerma
-description: "Online Territory of Shikher Verma"
+email: copypastestd@gmail.com
+copyright_name: CopyPaste
+description: "Copy Paste ... Profit"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
 url: http://shikherverma.com #only used in disque comments for now
 disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
-stackoverflow_username: 6764571/shikher-verma
+github_username: copypastestd
+link: RomeoND
+
 collections:
   - portfolio
 
